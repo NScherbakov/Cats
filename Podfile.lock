@@ -1,0 +1,44 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - MBProgressHUD (1.2.0)
+  - OCMapper (2.1)
+  - SDWebImage (5.18.8):
+    - SDWebImage/Core (= 5.18.8)
+  - SDWebImage/Core (5.18.8)
+
+DEPENDENCIES:
+  - AFNetworking
+  - MBProgressHUD
+  - OCMapper
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - MBProgressHUD
+    - OCMapper
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  OCMapper: fa22e7b51de7cc38e66b993037076d28a0f31b29
+  SDWebImage: a81bbb3ba4ea5f810f4069c68727cb118467a04a
+
+PODFILE CHECKSUM: 9aafbc526afa79b2f23bb2b99390570792c5ec07
+
+COCOAPODS: 1.14.3
